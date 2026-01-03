@@ -14,7 +14,7 @@
 @import url('https://imbwbl.github.io/DiscordCuteTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://imbwbl.github.io/DiscordCuteTheme/css/crtEffect.css');
+@import url('https://imbwbl.github.io/DiscordCuteTheme/css/disableCRT.css');
 /* ^ This is the CRT effect. ^ If you don't like it, remove or comment out this line! */
 
 /* CUSTOMIZE COLORS IN HERE! */
