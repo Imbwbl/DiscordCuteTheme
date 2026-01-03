@@ -15,7 +15,8 @@
   /* --== Hide weird unused stuff ==-- */
   ._9293f6b2fc12398a-children:after,
   .f75fb00fb7356cbe-form::before,
-  ._56fec8e8b8048fe0-option:after {
+  ._56fec8e8b8048fe0-option:after,
+  .d852db00c0588eb9-wrapper {
     display: none;
   }
 }
@@ -23,5 +24,5 @@
 /* --== Change font ==-- */
 html,
 body {
-  font-family: "Share Tech Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
 }

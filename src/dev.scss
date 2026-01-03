@@ -11,8 +11,8 @@
 --== This stuff is only here so the dev build works. The final .css file will have all comments stripped ==--
 */
 
-@import "main.scss";
-@import "crtEffect.scss";
+@use "main.scss";
+@use "crtEffect.scss";
 
 :root,
 .visual-refresh,

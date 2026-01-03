@@ -1,6 +1,21 @@
 .theme-dark {
-  /* --== Style the user panel in the bottom left ==-- */
+  ._37e49614b9f110a9-container,
+  #vc-spotify-player,
+  ._5dec784a68542d60-panel,
+  ._5e434347c823b592-activityPanel,
   ._5e434347c823b592-panels {
     background-color: var(--background);
+  }
+
+  ._5e434347c823b592-panels {
+    border: 1px solid var(--highlight);
+  }
+  ._37e49614b9f110a9-container {
+    border-top: 1px solid var(--highlight);
+    border-left: 1px solid var(--highlight);
+    border-radius: 0px 0px 7px 7px;
+  }
+  ._5dec784a68542d60-panel {
+    border-bottom: 1px solid var(--highlight);
   }
 }
